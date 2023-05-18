@@ -1,0 +1,66 @@
+.header {
+    position: absolute;
+    top: 0;
+    font-size: 1.5rem;
+    text-align: center;
+    width: 100%;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 23rem;
+    justify-content: center;
+    width: 37rem;
+  
+    border-radius: 5px;
+    border: 6px solid black;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 18.75rem;
+}
+
+.form-group label {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.form-group input {
+    border-radius: 10px;
+}
+
+.form-group button {
+    margin-top: 15px;
+    padding: 10px 30px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-radius: 4px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+.texto {
+    font-size: 1.9rem;
+    text-align: center;
+    color: blue;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
