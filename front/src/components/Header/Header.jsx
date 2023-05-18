@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
         <header>
-            <nav className='navbar navbar-expand-md  navbar-dark bg-dark'>
+            <nav className='navbar navbar-expand-md super navbar-dark bg-dark'>
 
                 <div className='text-center'>
                     

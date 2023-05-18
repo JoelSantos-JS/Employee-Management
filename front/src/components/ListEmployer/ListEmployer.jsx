@@ -106,7 +106,7 @@ function ListEmployer() {
   
 
 <div className='p-5'>
-    <h2 className="text-center">Employees List</h2>
+    <h2 className="text-center title">Employees List</h2>
     <div className = "row">
        <button className='btn btn-primary col-md-2 offset-md-10'  onClick={() => addEmployee()} >Create Employee</button>
     </div>
