@@ -14,7 +14,7 @@ function App() {
 
 
   return (
-    <>
+    <div className='container'>
 
 
  
@@ -30,7 +30,7 @@ function App() {
     <Footer/>
 
 
-      </>
+      </ div>
   )
 }
 
